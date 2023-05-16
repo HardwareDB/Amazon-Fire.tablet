@@ -6,10 +6,11 @@
 thread: https://forum.xda-developers.com/t/rom-unlocked-karnak-lineage-20-0-3-january-2023.4533639/
 rom_url: https://github.com/mt8163/android_device_amazon_karnak/releases/download/lineage-20.0-20230104-UNOFFICIAL-karnak/lineage-20.0-20230104-UNOFFICIAL-karnak.zip
 
+
+## Tests
 note:
 - Takes several minutes to boot. Amazon logo will appear first, a few minutes later LineageOS loading screen appears.
 
-## Tests
 ### test 1
 - result: doesn't work
 - TWRP version: amonet-v2
