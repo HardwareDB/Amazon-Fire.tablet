@@ -1,4 +1,4 @@
-# This is a little Different from the guide, but it works!
+# My steps adapted from the guide, it works!
 prime: https://github.com/hexdump0815/imagebuilder/tree/main/systems/tablet_amazon_karnak
 
 # Steps:
