@@ -1,1 +1,1 @@
-# Amazon-Fire.tablet
+# Kindle-Fire.tablet
