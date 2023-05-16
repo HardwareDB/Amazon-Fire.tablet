@@ -1,3 +1,5 @@
+codename: karnak
+
 # Unlock Bootloader
 guide:
 - video: [[Fire HD 8/2018] How to Unlock the Bootloader, Flash TWRP, and Install root on the Amazon Fire HD 8!](https://youtu.be/sN6PphcI6XQ)
