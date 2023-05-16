@@ -7,6 +7,8 @@ status: works, but Has ceased development. [commit: message](https://github.com/
 
 image:
 ```
+# distro: Ubuntu Focal, arch: armv7l
+userspace: armv7, 32 bit
 rom: "tablet_amazon_karnak-armv7l-focal.img.gz"
 rom_url: "https://github.com/hexdump0815/imagebuilder/releases/download/220220-02/tablet_amazon_karnak-armv7l-focal.img.gz"
 ```
