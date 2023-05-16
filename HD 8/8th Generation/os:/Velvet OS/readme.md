@@ -3,11 +3,13 @@ guide: https://github.com/hexdump0815/imagebuilder/blob/main/systems/tablet_amaz
 
 status: works, but Has ceased development. [commit: message](https://github.com/hexdump0815/imagebuilder/commit/d418f6befa12940dfebc719b12de69efd2ee88f7)
 
-# release: 220220-02, Tested: Works!
-:-)
-data:
-- rom: tablet_amazon_karnak-armv7l-focal.img.gz
-- rom_url: https://github.com/hexdump0815/imagebuilder/releases/download/220220-02/tablet_amazon_karnak-armv7l-focal.img.gz
+# release: 220220-02, Tested: Works! :-)
+
+image:
+```
+rom: "tablet_amazon_karnak-armv7l-focal.img.gz"
+rom_url: "https://github.com/hexdump0815/imagebuilder/releases/download/220220-02/tablet_amazon_karnak-armv7l-focal.img.gz"
+```
 
 notes:
 - Requires running `adb shell sh /fix-bootpatch.sh`, which is the "Amonet" modification of this TWRP.
