@@ -13,5 +13,6 @@ prime: https://github.com/hexdump0815/imagebuilder/tree/main/systems/tablet_amaz
 6. ADB push it onto tablet's SD card: `adb push tablet_amazon_karnak-armv7l-focal.img /auto0-1`
 
 Continuing from guide:
+
 7. Write image to internal storage: `adb shell dd if=/auto0-1/tablet_amazon_karnak-armv7l-focal.img of=/dev/block/platform/mtk-msdc.0/by-name/boot`
 8. Run bootpatch script: `adb shell sh /fix-bootpatch.sh`
