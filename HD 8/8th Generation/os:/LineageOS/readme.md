@@ -11,8 +11,8 @@ note:
 
 ## Tests
 ### test 1
-result: doesn't work
-TWRP version: amonet-v2
+- result: doesn't work
+- TWRP version: amonet-v2
 
 ### test 2
 - result: Works!
