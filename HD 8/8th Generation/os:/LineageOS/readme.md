@@ -9,11 +9,12 @@ rom_url: https://github.com/mt8163/android_device_amazon_karnak/releases/downloa
 note:
 - Takes several minutes to boot. Amazon logo will appear first, a few minutes later LineageOS loading screen appears.
 
-## test 1:
+## Tests
+### test 1
 result: doesn't work
 TWRP version: amonet-v2
 
-## test 2:
+### test 2
 - result: Works!
 - TWRP version: amonet-karnak-v3.0.1.zip
   - [from:](https://forum.xda-developers.com/t/unlock-root-twrp-unbrick-fire-hd-8-2018-karnak-amonet-3.3963496/)
